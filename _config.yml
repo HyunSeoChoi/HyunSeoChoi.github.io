@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: HyunSeo의 개발 블로그
+title: HyunSeo's Dev Story
 subtitle:
 description:
 author: HyunSeo Choi
@@ -84,7 +84,7 @@ keywords: "Jekyll, NexT, HyunSeo, Develop"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -213,7 +213,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
+  GitHub: https://github.com/HyunSeoChoi/
   #LinkLabel: Link
 
 
@@ -462,7 +463,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-145439510-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
