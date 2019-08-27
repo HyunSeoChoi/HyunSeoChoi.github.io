@@ -27,10 +27,6 @@ type: about
       <li>SW마에스트로 10기</li>
       <li>(ASP) 케이원 정보통신 NKP 분석/보고 (인턴)</li>
     </dd>
-    <dt>교내 수상</dt>
-    <dd>
-      <li></li>
-    </dd>
     <dt>교내 활동</dt>
     <dd>
       <li>2019 신입생 특별 교육 조교</li>
