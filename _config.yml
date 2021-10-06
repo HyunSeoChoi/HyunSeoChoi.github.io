@@ -4,27 +4,27 @@ url : "https://hyunseochoi.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : HyunSeo's Devlog
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Hyunseo Choi
+    description : A developer who dreams of becoming the strongest in the universe! I'm also dreaming of conquering the world.
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
     skills : 
-      - skill : HTML5 & CSS
+      - skill : Node.js & React
         value : 85  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: dev.hyunseo@gmail.com
     linkedin:  # Full URL 
-    github: naye0ng
+    github: HyunSeoChoi
     gitlab: 
     bitbucket: 
     google_plus:
