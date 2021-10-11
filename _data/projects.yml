@@ -2,33 +2,43 @@
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
     url: # Full URL
-    image: # path: assets/project/
-    date: 2015.01.01 - 2017.12.31
+    image: study.jpg
+    date: 2015.01.01 - 2018.12.31
     title: 미들워크 프로젝트
     summary: 중학생 때 개발한 프로그램 모음
     description: 중학생 때 개발한 프로그램, 라이브러리, 게임, 챗봇 모음
     contents:
       - title: 1. 도서관 도서 관리 프로그램
-        description: <font color="red">NO BACKUP</font>
+        description: <b><li>&lt;C# Console Application&gt;</li></b>
+          <li><font color="red">NO BACKUP</font></li>
+          <i><li>2016년 상반기</li></i>
           <li>첫 객체 지향 프로그램</li>
           <li>도서관별 도서 생성, 관리 기능</li>
       - title: 2. 슈팅 디펜스 게임
         image: prototype-sniper.png
-        description: <a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/HyunSeoChoi.github.io/raw/master/assets/apk/prototype-sniper.apk" target="_blank">APK</a>
+        description: <b><li>&lt;Unity + C# Script&gt;</li></b>
+          <li><a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/HyunSeoChoi.github.io/raw/master/assets/apk/prototype-sniper.apk" target="_blank">APK</a></li>
+          <i><li>2016년 하반기</li></i>
       - title: 3. 러닝 액션 게임
         image: monster-run.png
-        description: <a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/HyunSeoChoi.github.io/raw/master/assets/apk/monster-run.apk" target="_blank">APK</a>
+        description: <b><li>&lt;Unity + C# Script&gt;</li></b>
+          <li><a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/HyunSeoChoi.github.io/raw/master/assets/apk/monster-run.apk" target="_blank">APK</a></li>
+          <i><li>2016년 하반기</li></i>
       - title: 4. TCP 네트워킹 라이브러리
-        description:
-          <a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/tcp-packing" target="_blank">CODE</a>
+        description: <b><li>&lt;C# Library&gt;</li></b>
+          <li><a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/tcp-packing" target="_blank">CODE</a></li>
+          <i><li>2017년 상반기</li></i>
           <li>TCP 프로토콜 패킷 송수신 관리 프로그램</li>
       - title: 5. 2D 멀티 슈팅 게임
-        description: <font color="red">NO BACKUP</font>
+        description: <b><li>&lt;Unity + C# Script&gt;</li></b>
+          <li><font color="red">NO BACKUP</font></li>
+          <i><li>2017년 상반기</li></i>
           <li>TCP 네트워킹 라이브러리를 활용한 첫 멀티 게임</li>
       - title: 6. 팀 크레센도 배추봇
         image: team-crescendo.png
-        description:
-          <a style="color:blue; text-decoration:underline;" href="https://team-crescendo.me/" target="_blank">PAGE</a>
+        description: <b><li>&lt;Python + Discord Module&gt;</li></b>
+          <li><a style="color:blue; text-decoration:underline;" href="https://team-crescendo.me/" target="_blank">PAGE</a></li>
+          <i><li>2018년 상반기</li></i>
           <li>시즌 A 팀 크레센도 입단</li>
           <li>엔터테인먼트 목적 챗봇</li>
 
@@ -36,7 +46,7 @@
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
     url: # Full URL
-    image:
+    image: study.jpg
     date: 2018.03.02 - 2021.10.08
     title: 하이워크 프로젝트
     summary: 고등학생 때 홍보단, 동아리에서 만든 프로그램 모음
@@ -44,19 +54,24 @@
     contents:
       - title: 1. 동아리 활동 체크용 카카오톡 챗봇
         image: kakao-friends.png
-        description: <font color="red">TERMINATION</font>
+        description: <b><li>&lt;Apache Tomcat + Kakaotalk API&gt;</li></b>
+          <li><font color="red">NO BACKUP</font></li>
+          <i><li>2019년 상반기</li></i>
           <li>동아리원 대외활동 관리</li>
           <li>학교 주요일정, 급식 등 Q&A 기능</li>
       - title: 2. 미래고 학과 테스트 사이트
         image: mirae-department-test.jpg
-        description:
-          <a style="color:blue; text-decoration:underline;" href="https://mist-c.org/" target='_blank'>DEMO</a>
+        description: <b><li>&lt;React App + Google Apps Script&gt;</li></b>
+          <li><a style="color:blue; text-decoration:underline;" href="https://mist-c.org/" target='_blank'>DEMO</a></li>
+          <i><li>2020.10.03 - 2020.11.11</li></i>
           <li>퀴즈를 풀고 학과를 추천받을 수 있는 웹사이트</li>
           <li>제출한 FORM을 구글 스프레드시트로 저장</li>
       - title: 3. 미래고 학과 소개 챗봇
         image: chatbot.gif
         description:
-          <a style="color:blue; text-decoration:underline;" href="https://miraechat.netlify.app/" target='_blank'>DEMO</a>
+          <b><li>&lt;React App + Node.js Express Server + Kkma&gt;</li></b>
+          <li><a style="color:blue; text-decoration:underline;" href="https://miraechat.netlify.app/" target='_blank'>DEMO</a></li>
+          <i><li>2021.09.17 - 2021.10.07</li></i>
           <li>스몰토크 + 학과 Q&A 기능</li>
           <li>Doc2Vec 모델과 핑퐁 빌더로 만든 챗봇</li>
 
