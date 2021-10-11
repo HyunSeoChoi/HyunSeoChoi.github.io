@@ -11,7 +11,7 @@ theme_settings:
   profile:
     image: assets/img/smile.png
     username: Hyunseo Choi
-    description: 전세계 정복은 아니더라도 전세 계약 정도는 하고 싶은 개발자
+    description: 세계 정복까지는 아니더라도 세계 여행 정도는 하고 싶은 개발자
     experience:
       - start: 2019-01-07
         end: 2019-01-18
