@@ -1,38 +1,81 @@
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
-    contents :
-        - title : 1. 블로그 첫 화면 구성
-          image : home.png
-          description : <li>Responsive Layout</li>
-            <li>User Profile</li> 
-            <li>Tags</li> 
-            <li>Projects</li> 
-            <li>Pagination</li>
-        - title : 2. 태그 페이지
-          image : tags.png
-          description : <li>Responsive Layout</li> 
-            <li>Tags</li> 
-        - title : 3. 남은 개발 과제
-          image :
-          description : <li>project 부분 디자인 변경</li>
-            <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile 이미지 효과</li>
-            <li>gem 배포</li> 
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: # path: assets/project/
+    date: 2015.01.01 - 2017.12.31
+    title: 미들워크 프로젝트
+    summary: 중학생 때 개발한 프로그램 모음
+    description: 중학생 때 개발한 프로그램, 라이브러리, 게임, 챗봇 모음
+    contents:
+      - title: 1. 도서관 도서 관리 프로그램
+        description: <font color="red">NO BACKUP</font>
+          <li>첫 객체 지향 프로그램</li>
+          <li>도서관별 도서 생성, 관리 기능</li>
+      - title: 2. 슈팅 디펜스 게임
+        image: prototype-sniper.png
+        description: <a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/HyunSeoChoi.github.io/raw/master/assets/apk/prototype-sniper.apk" target="_blank">APK</a>
+      - title: 3. 러닝 액션 게임
+        image: monster-run.png
+        description: <a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/HyunSeoChoi.github.io/raw/master/assets/apk/monster-run.apk" target="_blank">APK</a>
+      - title: 4. TCP 네트워킹 라이브러리
+        description:
+          <a style="color:blue; text-decoration:underline;" href="https://github.com/HyunSeoChoi/tcp-packing" target="_blank">CODE</a>
+          <li>TCP 프로토콜 패킷 송수신 관리 프로그램</li>
+      - title: 5. 2D 멀티 슈팅 게임
+        description: <font color="red">NO BACKUP</font>
+          <li>TCP 네트워킹 라이브러리를 활용한 첫 멀티 게임</li>
+      - title: 6. 팀 크레센도 배추봇
+        image: team-crescendo.png
+        description:
+          <a style="color:blue; text-decoration:underline;" href="https://team-crescendo.me/" target="_blank">PAGE</a>
+          <li>시즌 A 팀 크레센도 입단</li>
+          <li>엔터테인먼트 목적 챗봇</li>
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
-    description :  
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image:
+    date: 2018.03.02 - 2021.10.08
+    title: 하이워크 프로젝트
+    summary: 고등학생 때 홍보단, 동아리에서 만든 프로그램 모음
+    description: 고등학생 때 홍보단, 동아리에서 만든 챗봇, 웹사이트 모음
+    contents:
+      - title: 1. 동아리 활동 체크용 카카오톡 챗봇
+        image: kakao-friends.png
+        description: <font color="red">TERMINATION</font>
+          <li>동아리원 대외활동 관리</li>
+          <li>학교 주요일정, 급식 등 Q&A 기능</li>
+      - title: 2. 미래고 학과 테스트 사이트
+        image: mirae-department-test.jpg
+        description:
+          <a style="color:blue; text-decoration:underline;" href="https://mist-c.org/" target='_blank'>DEMO</a>
+          <li>퀴즈를 풀고 학과를 추천받을 수 있는 웹사이트</li>
+          <li>제출한 FORM을 구글 스프레드시트로 저장</li>
+      - title: 3. 미래고 학과 소개 챗봇
+        image: chatbot.gif
+        description:
+          <a style="color:blue; text-decoration:underline;" href="https://miraechat.netlify.app/" target='_blank'>DEMO</a>
+          <li>스몰토크 + 학과 Q&A 기능</li>
+          <li>Doc2Vec 모델과 핑퐁 빌더로 만든 챗봇</li>
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://github.com/Common-Bound/cbound-web # Full URL
+    image: cbound-web.png # path: assets/project/
+    date: 2019.04.29 - 2019.11.23
+    title: 커먼바운드
+    summary: 인공지능 학습 데이터 크라우드소싱 플랫폼
+    description: 커먼바운드는 인공지능 학습 데이터를 생산하는데 필요한 온라인 작업 환경을 제공하고, 인공지능 검수 시스템으로 낮은 품질의 데이터를 빠르게 검출할 수 있습니다.
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://github.com/HyunSeoChoi/translation-terminology # Full URL
+    image: translation-terminology.jpg # path: assets/project/
+    date: 2020.03.19 - 2020.04.06
+    title: IT서적 번역용 온라인 용어집
+    summary: IT서적 번역을 위한 온라인 용어집(Open Source)
+    description: IT 산업과 간접적으로 또는 직접적으로 연관이 있는 단어를 모아둔 사전입니다. 약어는 취급하지 않습니다. Contributer는 JSON 포맷 형태로 Pull Request(PR)를 보낼 수 있습니다.

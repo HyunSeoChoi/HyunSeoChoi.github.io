@@ -1,32 +1,40 @@
 # Site Settings
 baseurl: ""
-url : "https://hyunseochoi.github.io"
+url: "https://hyunseochoi.github.io"
 
 # Blog Settings
-theme_settings :
-  title : HyunSeo's Devlog
-  favicon : assets/favicon.ico
+theme_settings:
+  title: HyunSeo's Devlog
+  favicon: assets/favicon.ico
 
   # Profile Settings
-  profile :
-    image : assets/img/smile.png
-    username : Hyunseo Choi
-    description : A developer who dreams of becoming the strongest in the universe! I'm also dreaming of conquering the world.
-    experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
-    skills : 
-      - skill : Node.js & React
-        value : 85  # Percent value
-        
+  profile:
+    image: assets/img/smile.png
+    username: Hyunseo Choi
+    description: 전세계 정복은 아니더라도 전세 계약 정도는 하고 싶은 개발자
+    experience:
+      - start: 2019-01-07
+        end: 2019-01-18
+        experience: Internship, ICT Company
+      - start: 2019-04-29
+        end: 2019-12-19
+        experience: 10th Trainee, SW Maestro
+      - start: 2019-10-17
+        end: 2020-05-15
+        experience: Book Translator, Acorn Pub
+    skills:
+      - skill: Node.js & React
+        value: 85
+      - skill: C# & Unity
+        value: 45
+
   # Icons
-  icons :
+  icons:
     email: dev.hyunseo@gmail.com
-    linkedin:  # Full URL 
+    linkedin: # Full URL
     github: HyunSeoChoi
-    gitlab: 
-    bitbucket: 
+    gitlab:
+    bitbucket:
     google_plus:
     twitter:
     youtube:
@@ -34,7 +42,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname:
 
 # Pagination
 paginate: 5
