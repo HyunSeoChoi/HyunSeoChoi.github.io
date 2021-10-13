@@ -2,7 +2,6 @@
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
     url: # Full URL
-    image: study.jpg
     date: 2015.01.01 - 2018.12.31
     title: 미들워크 프로젝트
     summary: 중학생 때 개발한 프로그램 모음
@@ -46,7 +45,6 @@
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
     url: # Full URL
-    image: study.jpg
     date: 2018.03.02 - 2021.10.08
     title: 하이워크 프로젝트
     summary: 고등학생 때 홍보단, 동아리에서 만든 프로그램 모음
