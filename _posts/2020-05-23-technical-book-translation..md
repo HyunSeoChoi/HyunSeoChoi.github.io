@@ -2,7 +2,7 @@
 layout: post
 title: 기술서적 번역 회고
 subtitle: Memoirs of Book Translation
-tags: [Sample Post, Welcome to the Grape Theme!]
+tags: [회고, 번역]
 author: HyunSeo CHOI
 comments: False
 ---
@@ -17,7 +17,7 @@ SW 마에스트로 교육 과정이 끝나고 당시 휴학한 나로서는 이�
 
 <br>
 
-![sample image]({{ site.baseurl }}/assets/img/2020-05-23-trip.jpg){: .width-55}
+![trip]({{ site.baseurl }}/assets/img/2020-05-23-technical-book-translation/trip.jpg){: .width-55}
 _<center>가끔은 여행도 가자!</center>_
 
 <br><br>
@@ -40,7 +40,7 @@ _<center>가끔은 여행도 가자!</center>_
 
 <br>
 
-![sample image]({{ site.baseurl }}/assets/img/2020-05-23-thank-email.png){: .width-55}
+![thank-email]({{ site.baseurl }}/assets/img/2020-05-23-technical-book-translation/thank-email.png){: .width-55}
 _<center>귀찮게 해서 죄송합니다</center>_
 
 <br><br>
@@ -61,7 +61,7 @@ _<center>귀찮게 해서 죄송합니다</center>_
 
 <br>
 
-![sample image]({{ site.baseurl }}/assets/img/2020-05-23-git-project.png){: .width-55}
+![git-project]({{ site.baseurl }}/assets/img/2020-05-23-technical-book-translation/git-project.png){: .width-55}
 
 <br><br>
 
@@ -118,7 +118,7 @@ _띄어쓰기를 했었나?_
 
 <br>
 
-![sample image]({{ site.baseurl }}/assets/img/2020-05-23-term-dictionary.png){: .width-55}
+![term-dictionary]({{ site.baseurl }}/assets/img/2020-05-23-technical-book-translation/term-dictionary.png){: .width-55}
 [<center>IT서적 번역용 온라인 용어집</center>](https://hyunseochoi.github.io/translation-terminology/){:target="\_blank"}
 
 <br>
@@ -174,7 +174,7 @@ _띄어쓰기를 했었나?_
 
 <br>
 
-![sample image]({{ site.baseurl }}/assets/img/2020-05-23-reply.png){: .width-55}
+![reply]({{ site.baseurl }}/assets/img/2020-05-23-technical-book-translation/reply.png){: .width-55}
 
 <br>
 
@@ -235,7 +235,7 @@ HyunSeo CHOI
 
 <br>
 
-![sample image]({{ site.baseurl }}/assets/img/2020-05-23-fat.png){: .width-55}
+![fat]({{ site.baseurl }}/assets/img/2020-05-23-technical-book-translation/fat.png){: .width-55}
 
 <br>
 
