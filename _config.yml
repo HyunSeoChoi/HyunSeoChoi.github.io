@@ -55,12 +55,3 @@ sass:
 gems: [jekyll-paginate]
 bootstrap:
   assets: true
-
-# Analytics
-analytics:
-  provider:
-    "google-gtag"
-    # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id: "G-P4M7HFH9H4"
-    anonymize_ip: # true, false (default)
