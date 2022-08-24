@@ -34,8 +34,8 @@ url: 'https://hyunseochoi.github.io'
 github:
   username: HyunSeoChoi             # change to your github username
 
-#twitter:
-#  username:             # change to your twitter username
+linkedin:
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -56,7 +56,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-P4M7HFH9H4'                # fill in your Google Analytics ID
+  id: 'G-GJBK7JYZE6'                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
