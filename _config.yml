@@ -21,12 +21,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HyunSeo                          # the main title
+title: HyunSeo's Devlog                          # the main title
 
 tagline: 글 쓰는 개발자   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  세계 정복까지는 아니더라도 세계 여행 정도는 하고 싶은 개발자
+  인간과 기계 간의 소통에 관심이 많은 개발자
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hyunseochoi.github.io'
