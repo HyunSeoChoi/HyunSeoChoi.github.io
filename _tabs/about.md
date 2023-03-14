@@ -14,7 +14,7 @@ Bachelor Student Hanyang University
 
 ### Education
 
-> Mar. 2022 ~ **Hanyang University** Seoul, Present Department of Information Systems Korea<br>Bachelor Student GPA: 4.34 / 4.5
+> Mar. 2022 ~ **Hanyang University** Seoul, Present Department of Information Systems Korea<br>Bachelor Student GPA: 4.3 / 4.5
 
 ### Research Interests
 
