@@ -47,7 +47,7 @@ Bachelor Student Hanyang University
 - Professional qualities
   - OOP programming skills (advanced)
     - Documentation skills (excellent)
-      - Writing skills (excellent)
+    - Writing skills (excellent)
   - PC use
     - Word documentation
-      - Power point presentation
+    - Power point presentation
