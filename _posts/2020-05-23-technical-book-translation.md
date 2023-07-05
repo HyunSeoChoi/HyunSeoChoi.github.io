@@ -139,7 +139,11 @@ _[IT서적 번역용 온라인 용어집](https://hyunseochoi.github.io/translat
 
 +@ 맞춤법과는 관련이 없지만 문장을 다듬는 과정에서 도움을 준 책이 있다. 두껍지도 않고 에피소드 형식이라 재밌게 읽었던 책을 하나 추천하겠다. 피동을 남용하고 번역투에 익숙해진 우리의 문장을 꼬집어주는 좋은 책이다.
 
-[<center>내 문장이 그렇게 이상한가요?</center>](https://www.notion.so/1759aedae5ab472fbd5d97be72178888)
+<center>
+
+[내 문장이 그렇게 이상한가요?](https://www.notion.so/1759aedae5ab472fbd5d97be72178888)
+
+</center>
 
 <br>
 
