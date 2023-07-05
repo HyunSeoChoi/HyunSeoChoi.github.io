@@ -17,7 +17,7 @@ img_path: /assets/img/posts/2020-05-23-technical-book-translation/
 
 SW마에스트로 교육 과정이 끝나고 당시 휴학한 나로서는 이후 찾아올 공백기가 무서웠다. 아무것도 하지 않으면 아무 일도 일어나지 않는다. 가치 없는 시간을 만들지 않으려고 할 일을 꾸역꾸역 만들었다. 하지만 너무 과해 몇 번이나 약속했던 일을 포기했던 기억이 난다. 다음부터는 일과 삶의 균형을 맞추려 노력해야겠다.
 
-![trip](trip.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
+![trip](trip.jpg){: .shadow width="1548" height="864" }
 _가끔은 여행도 가자!_
 
 <br>
@@ -40,7 +40,7 @@ _가끔은 여행도 가자!_
 
 시간이 흘러갔고 SW마에스트로가 끝날 때쯤에는 번역이란 작업에 푹 빠져, 결론적으로는 책임을 지는 글을 써보기로 했다.
 
-![thank-email](thank-email.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+![thank-email](thank-email.png){: .shadow width="1548" height="864" }
 _귀찮게 해서 죄송합니다_
 
 <br>
@@ -57,7 +57,7 @@ _귀찮게 해서 죄송합니다_
 
 출판사와 번역가가 처음 작업을 진행할 때는 샘플 번역을 한다. 이 샘플 번역은 일종의 리스크 관리로, 역자는 후에 번역 스타일에 불합리한 의견이 들어오는 것을 방지하며 출판사는 역자의 문체가 출판사가 원하는 문체인지 확인한다. 기판력이 작용하기 전에 변호사가 가져오는 양질의 판례와 비슷한 역할을 한다고 보면 된다. 그렇게 일주일간 샘플 번역을 했고 품질이 나쁘지 않아서인지 전체 번역을 진행하기로 했다.
 
-![git-project](git-project.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+![git-project](git-project.png){: .shadow width="1548" height="864" }
 
 <br>
 
@@ -103,7 +103,7 @@ _띄어쓰기를 했었나?_
 
 번역이 끝난 지금은 누구나 기여가 가능하게끔 사이트를 열어두었지만, 지금까지 PR은 없었다.
 
-![term-dictionary](term-dictionary.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+![term-dictionary](term-dictionary.png){: .shadow width="1548" height="864" }
 _[IT서적 번역용 온라인 용어집](https://hyunseochoi.github.io/translation-terminology/)_
 
 <br>
@@ -139,11 +139,7 @@ _[IT서적 번역용 온라인 용어집](https://hyunseochoi.github.io/translat
 
 +@ 맞춤법과는 관련이 없지만 문장을 다듬는 과정에서 도움을 준 책이 있다. 두껍지도 않고 에피소드 형식이라 재밌게 읽었던 책을 하나 추천하겠다. 피동을 남용하고 번역투에 익숙해진 우리의 문장을 꼬집어주는 좋은 책이다.
 
-<center>
-
-[내 문장이 그렇게 이상한가요?](https://www.notion.so/1759aedae5ab472fbd5d97be72178888)
-
-</center>
+[<center>내 문장이 그렇게 이상한가요?</center>](https://www.notion.so/1759aedae5ab472fbd5d97be72178888)
 
 <br>
 
@@ -159,7 +155,7 @@ _[IT서적 번역용 온라인 용어집](https://hyunseochoi.github.io/translat
 
 내가 해야 하는 일은 연락할 수 있는 이메일, 영어 이름을 출판사에 보내는 것뿐이었다. 그러고 나서 며칠을 남은 챕터를 번역하며 기다렸다.
 
-![reply](reply.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+![reply](reply.png){: .shadow width="1548" height="864" }
 _요약 ⇒ 역자가 저자에게 직접 메일을 보내도 괜찮습니다_
 
 <br>
@@ -215,7 +211,7 @@ HyunSeo CHOI
 
 누구보다 빠른 행동력을 자랑하는 나는 번역이 끝난 후 다목적 출판사를 차렸다. 사업자 등록도 하고 세금에 관해 공부하며 회계 자격증도 취득했다. 이제 기회가 올 때까지 기다리면 될 일이다.
 
-![fat](fat.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+![fat](fat.png){: .shadow width="1548" height="864" }
 
 <br>
 
